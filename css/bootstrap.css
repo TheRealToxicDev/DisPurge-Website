@@ -611,6 +611,8 @@ progress {
   padding-left: 1rem;
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: auto;
+  margin-top: auto;
 }
 
 @media (min-width: 576px) {
