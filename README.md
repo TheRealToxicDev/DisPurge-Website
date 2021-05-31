@@ -16,3 +16,4 @@ Single Page HTML site used to power the [DisPurge](https://github.com/TheRealTox
 ## Credits 
 - Copyright (c) 2021 Toxic Dev | All Rights Reserved.
 - If self hosting or forking please keep all Licensed and Credits.
+- You may **not** use the DisPurge Logo or Name.
